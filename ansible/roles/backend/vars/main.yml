@@ -1,0 +1,8 @@
+mongodb_uri: "mongodb+srv://Ghadi:pass@cluster.g0ynlic.mongodb.net/blog-app?retryWrites=true&w=majority"
+jwt_secret: "myjwtsecretkey123456789"
+jwt_refresh: "myrefreshkey987654321"
+aws_key: "my-key"
+aws_secret: "my-secret-key"
+media_bucket: "mern-media-bucket"
+media_url: "https://mern-media-bucket.s3.eu-north-1.amazonaws.com"
+
